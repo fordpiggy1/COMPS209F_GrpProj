@@ -1,0 +1,45 @@
+Matrix（Ford） 
+
+首先 
+
+你gen個組員我真係幾鍾意 
+
+幫我同佢講聲我想約佢thx 
+
+ 
+
+講笑 
+
+ 
+
+比d建議你 
+
+用nested list 
+
+研究下到底點代表每一個column，比如如果用list 裏面的list代表一個row，甘用咩代表column？ 
+
+ 
+
+最簡單的操作，加element 去ith row j column，成個row加，成條column加 
+
+之類 
+
+參考R裏面的matrix class有咩操作可以 
+
+唔需要太複雜 
+
+4大：select，insert，delete，add要有 
+
+ 
+
+然後最簡單matrix operation：transpose，element wise 加減乘除constant 
+
+ 
+
+如果唔夠時間我地就净係搞一個class，净係操作一個matrix就得 
+
+有時間當然最好做到可以一個matrix乘一個matrix，比如define多個function可以比你做呢樣野，或者你整多幾個class一個用黎store matrix，一個manipulate matrix，之類 
+
+ 
+
+自己諗諗，我要去溫JAVA 
